@@ -10,7 +10,7 @@ On Heroku: https://jpa03-liuhaowu.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-lwu5
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-lwu5/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-lwu5)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-lwu5/branch/main/graph/badge.svg?token=S3WekH5z4D)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-lwu5)
 
 
 ## Integrations
